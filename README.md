@@ -1,8 +1,6 @@
 # Introduction to NLP 
 # Project : Neural Unsupervised Paraphrasing
 
-### Github Link : https://github.com/viraj27shah/Unsupervised_Peraphrasing
-
 ## Problem Statement :
 - Paraphrasing is expressing a sentence using different words while maintaining the meaning. In this project teams will be implementing unsupervised approaches to generate paraphrases for Indian Languages.
 
